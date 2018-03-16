@@ -158,4 +158,5 @@ public class NotificationHelper extends ContextWrapper
 ##### 参考
 
 https://developer.android.google.cn/training/notify-user/channels.html
+
 https://github.com/googlesamples/android-NotificationChannels/#readme
